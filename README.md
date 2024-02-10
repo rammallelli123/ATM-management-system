@@ -1,5 +1,5 @@
 # ATM-management-system
-# this the one who helps the people andeasy   to withdraw  or deposite our money to our bank
+# this is the one who helps the people andeasy   to withdraw  or deposite our money to our bank through ATM
 #it is used to deposite
 #it is also used towithdraw
 #it is also used to check our bank balance
